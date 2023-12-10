@@ -12,20 +12,33 @@ My vision is that I will be a full stack developer and senior web developer with
 
 </div>
 
-<h2>💻 Technologies that I use </h2>
+<h2>📱 Contact Me In Social Media</h2>
+<div align="center">
+<div style="display: flex; justify-content:center; gap:10px;">
+    <a href="https://www.linkedin.com/in/mezbah-uddin-a5a368267">
+
+   ![My contact](https://skillicons.dev/icons?i=linkedin)
+</a>
+
+<a href="https://twitter.com/Mezbah_uddin_88">
+
+   ![My contact](https://skillicons.dev/icons?i=twitter)
+</a>
+
+  </div>
+</div>
+
+<h2>💻 Technologies that I Use </h2>
 <div align="center">
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,mongodb,nodejs,express,firebase,vscode,github&perline=4)
 
 </div>
 
-# Hi there 👋
-## current overview
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h2> Current Overview</h2>
+
+- 🌱 I’m currently learning Next.js
+- 👯 I’m looking to collaborate on your company
+- 🤔 I’m looking for help with my some projects
+- 💬 Ask me about- Anything related that Front-End Development
+- 📫 How to reach me: rimonmr444@gmail.com
