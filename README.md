@@ -1,3 +1,11 @@
+<style>
+.social-icons{
+    display: flex;
+    justify-content: center;
+    gap:10px;
+}
+</style>
+
 ![The San Juan Mountains are beautiful!](/images/rimon.gif "San Juan Mountains")
 
 <h2>👨‍🎓 My Vision </h2>
@@ -14,7 +22,7 @@ My vision is that I will be a full stack developer and senior web developer with
 
 <h2>📱 Contact Me In Social Media</h2>
 <div align="center">
-<div style="display: flex; justify-content:center; gap:10px;">
+<div style="display: flex; justify-content:center; gap:10px;" class="social-icons">
 
 [![Social Contact](/icons/linkedin%20(2).png "linkedin")](https://www.linkedin.com/in/mezbah-uddin-a5a368267)
 
@@ -40,14 +48,15 @@ My vision is that I will be a full stack developer and senior web developer with
 - 📫 How to reach me: rimonmr444@gmail.com
 
 <h2>🔥 Github Contribution </h2>
-<div align="center">
-
-![My Skills](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mezbah-u-Rimon&theme=tokyonight)
-</div>
 
 <div style="display: flex;justify-content:center; gap:10px;">
 
 ![My Commit](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mezbah-u-Rimon&theme=tokyonight)
 ![my skill](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mezbah-u-Rimon&theme=tokyonight)
 
+</div>
+
+<div align="center">
+
+![My Skills](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mezbah-u-Rimon&theme=tokyonight)
 </div>
