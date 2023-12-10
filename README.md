@@ -1,3 +1,4 @@
+<defs>
 <style>
 .social-icons{
     display: flex;
@@ -5,6 +6,7 @@
     gap:10px;
 }
 </style>
+</defs>
 
 ![The San Juan Mountains are beautiful!](/images/rimon.gif "San Juan Mountains")
 
