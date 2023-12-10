@@ -2,7 +2,7 @@
 ![The San Juan Mountains are beautiful!](/images/rimon.gif "San Juan Mountains")
 
 <h2>👨‍🎓 My Vision </h2>
-<p>
+<p style="font-size:18px;">
 My vision is that I will be a full stack developer and senior web developer within the next 2 years. Now I want to explore react more and increase my experience by working as MERN Stack developer..
 </p>
 
