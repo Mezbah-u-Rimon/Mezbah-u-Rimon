@@ -15,15 +15,12 @@ My vision is that I will be a full stack developer and senior web developer with
 <h2>📱 Contact Me In Social Media</h2>
 <div align="center">
 <div style="display: flex; justify-content:center; gap:10px;">
-    <a href="https://www.linkedin.com/in/mezbah-uddin-a5a368267">
 
-   ![My contact](https://skillicons.dev/icons?i=linkedin)
-</a>
+[![Social Contact](/icons/linkedin%20(2).png "linkedin")](https://www.linkedin.com/in/mezbah-uddin-a5a368267)
 
-<a href="https://twitter.com/Mezbah_uddin_88">
+[![Social Contact](/icons/twitter.png "twitter")](https://twitter.com/Mezbah_uddin_88)
 
-   ![My contact](https://skillicons.dev/icons?i=twitter)
-</a>
+[![Social Contact](/icons/whatsapp.png "whatsapp")](https://l.facebook.com/l.php?u=https%3A%2F%2Fwhatsapp.com%2Fdl%2F%3Ffbclid%3DIwAR2ZXX3ZeKt3vkPNIBOMEQhxu6Pxpg4mY3tUm8DIDS8o6VnmPjx4AZfYyk0&h=AT1SCxKvKKjcZrc7Bz5lx7iBasYIf2efvMhSyOGkXxfk-qgA6qYRKfzNmqQPui3J0tZPl2bzufuM8KOD7OOBR9Xg3if3Cm-7v_E13ph3FNaT-FiYPdSZUI3JxguKfmsxBAQHNKuSvTWoHQM)
 
   </div>
 </div>
@@ -35,7 +32,7 @@ My vision is that I will be a full stack developer and senior web developer with
 
 </div>
 
-<h2> Current Overview</h2>
+<h2>🔎 Current Overview</h2>
 
 - 🌱 I’m currently learning Next.js
 - 👯 I’m looking to collaborate on your company
