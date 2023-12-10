@@ -2,6 +2,9 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mezbah-u-Rimon&theme=algolia)](https://git.io/streak-stats)
 
+<div class='text-center'>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mezbah-u-Rimon&theme=algolia" alt="GitHub Streak" /></a>
+</div>
 # Hi there 👋
 ## current overview
 - 🔭 I’m currently working on ...
