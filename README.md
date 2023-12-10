@@ -1,12 +1,3 @@
-<defs>
-<style>
-.social-icons{
-    display: flex;
-    justify-content: center;
-    gap:10px;
-}
-</style>
-</defs>
 
 ![The San Juan Mountains are beautiful!](/images/rimon.gif "San Juan Mountains")
 
@@ -24,13 +15,19 @@ My vision is that I will be a full stack developer and senior web developer with
 
 <h2>📱 Contact Me In Social Media</h2>
 <div align="center">
-<div style="display: flex; justify-content:center; gap:10px;" class="social-icons">
+<div style="display: flex; justify-content:center; gap:10px;">
+<p>
 
 [![Social Contact](/icons/linkedin%20(2).png "linkedin")](https://www.linkedin.com/in/mezbah-uddin-a5a368267)
+</p>
+<p>
 
 [![Social Contact](/icons/twitter.png "twitter")](https://twitter.com/Mezbah_uddin_88)
+</p>
+<p>
 
 [![Social Contact](/icons/whatsapp.png "whatsapp")](https://l.facebook.com/l.php?u=https%3A%2F%2Fwhatsapp.com%2Fdl%2F%3Ffbclid%3DIwAR2ZXX3ZeKt3vkPNIBOMEQhxu6Pxpg4mY3tUm8DIDS8o6VnmPjx4AZfYyk0&h=AT1SCxKvKKjcZrc7Bz5lx7iBasYIf2efvMhSyOGkXxfk-qgA6qYRKfzNmqQPui3J0tZPl2bzufuM8KOD7OOBR9Xg3if3Cm-7v_E13ph3FNaT-FiYPdSZUI3JxguKfmsxBAQHNKuSvTWoHQM)
+</p>
 </div>
 </div>
 
