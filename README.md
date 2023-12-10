@@ -13,6 +13,7 @@ My vision is that I will be a full stack developer and senior web developer with
 </div>
 
 <h2>📱 Contact Me In Social Media</h2>
+<div align="center">
 <div style="display: flex; justify-content:center; gap:10px;">
 
 [![Social Contact](/icons/linkedin%20(2).png "linkedin")](https://www.linkedin.com/in/mezbah-uddin-a5a368267)
@@ -20,7 +21,7 @@ My vision is that I will be a full stack developer and senior web developer with
 [![Social Contact](/icons/twitter.png "twitter")](https://twitter.com/Mezbah_uddin_88)
 
 [![Social Contact](/icons/whatsapp.png "whatsapp")](https://l.facebook.com/l.php?u=https%3A%2F%2Fwhatsapp.com%2Fdl%2F%3Ffbclid%3DIwAR2ZXX3ZeKt3vkPNIBOMEQhxu6Pxpg4mY3tUm8DIDS8o6VnmPjx4AZfYyk0&h=AT1SCxKvKKjcZrc7Bz5lx7iBasYIf2efvMhSyOGkXxfk-qgA6qYRKfzNmqQPui3J0tZPl2bzufuM8KOD7OOBR9Xg3if3Cm-7v_E13ph3FNaT-FiYPdSZUI3JxguKfmsxBAQHNKuSvTWoHQM)
-
+</div>
 </div>
 
 <h2>💻 Technologies that I Use </h2>
@@ -38,11 +39,16 @@ My vision is that I will be a full stack developer and senior web developer with
 - 💬 Ask me about- Anything related that Front-End Development
 - 📫 How to reach me: rimonmr444@gmail.com
 
-
-![My Skills](https://api.githubtrends.io/user/svg/Mezbah-u-Rimon/langs?time_range=one_year&use_percent=True&theme=bright_lights)
-
+<h2>🔥 Github Contribution </h2>
+<div align="center">
 
 ![My Skills](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mezbah-u-Rimon&theme=tokyonight)
+</div>
 
+<div style="display: flex;">
+
+![My Commit](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mezbah-u-Rimon&theme=tokyonight)
 
 ![my skill](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mezbah-u-Rimon&theme=tokyonight)
+
+</div>
