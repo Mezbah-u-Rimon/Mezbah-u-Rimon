@@ -1,5 +1,7 @@
 ![The San Juan Mountains are beautiful!](/images/rimon.gif "San Juan Mountains")
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mezbah-u-Rimon&theme=algolia)](https://git.io/streak-stats)
+
 # Hi there 👋
 ## current overview
 - 🔭 I’m currently working on ...
