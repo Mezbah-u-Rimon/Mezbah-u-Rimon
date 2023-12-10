@@ -45,10 +45,9 @@ My vision is that I will be a full stack developer and senior web developer with
 ![My Skills](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mezbah-u-Rimon&theme=tokyonight)
 </div>
 
-<div style="display: flex;">
+<div style="display: flex;justify-content:center; gap:10px;">
 
 ![My Commit](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mezbah-u-Rimon&theme=tokyonight)
-
 ![my skill](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mezbah-u-Rimon&theme=tokyonight)
 
 </div>
